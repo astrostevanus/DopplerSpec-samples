@@ -5,7 +5,9 @@ Common dependencies:
 PyAstronomy tqdm satrapy de423 jplephem h5py astroquery batman-package spiderman-package pymc
 
 Usually I install everything using pip and conda (since I always use python Anaconda):
+
 pip install PyAstronomy tqdm satrapy de423 jplephem h5py astroquery batman-package spiderman-package pymc
+
 
 It is helpful if you also install notebook extension which will allow you to have e.g. collapsible headings, table of content, execute time, codefolding etc:
 
