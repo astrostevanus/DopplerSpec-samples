@@ -19,4 +19,7 @@ It is helpful if you also install notebook extension which will allow you to hav
 
 The Jupyter notebook that I provide will guide you step-by-step from removing telluric/stellar lines using SysRem (detrending algorithm, Tamuz et al. 2014), cross-correlating with spectrum template, and summing all of the relevant signals (e.g. within in-transit phase in the case of transmission spectroscopy, or out of eclipse in the case of emission spectroscopy).
 
-The first available demo is using CARMENES data of HD 189733b which is publicly available through http://caha.sdc.cab.inta-csic.es/calto/. The data were used in Alonso-Floriano et al. 2018 (https://arxiv.org/abs/1811.08901 or https://www.aanda.org/articles/aa/pdf/2019/01/aa34339-18.pdf) to detect multiple water band detection in the atmosphere of HD 189733b. Please cite the reference when appropriate.
+
+There are two available demo:
+1. Near Infrared CARMENES data of HD 189733b which is publicly available through http://caha.sdc.cab.inta-csic.es/calto/. The data were used in Alonso-Floriano et al. 2018 (https://arxiv.org/abs/1811.08901 or https://www.aanda.org/articles/aa/pdf/2019/01/aa34339-18.pdf) to detect multiple water band detection in the atmosphere of HD 189733b.
+2. HARPSN data of transmission spectroscopy of KELT-9b which was used for a publication in Hoeijmakers et al. 2018. The current version does not include on removing the Doppler shadow. Update will be carried out as soon as possible.
