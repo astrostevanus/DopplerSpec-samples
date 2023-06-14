@@ -16,7 +16,7 @@ Activate it using:
 jupyter nbextensions_configurator enable --user
 jupyter nbextension enable --py widgetsnbextension
 
-The Jupyter notebook that I provide will guide you step-by-step from removing telluric/stellar lines using SysRem (detrending algorithm, Tamuz et al. 2014), cross-correlating with spectrum template, and summing all of the relevant signals (e.g. within in-transit phase in the case of transmission spectroscopy, or out of eclipse in the case of emission spectroscopy).
+The Jupyter notebook that I provide will guide you step-by-step from putting 1D spectrum to 2D array, putting the spectra into a common continuum profile, removing telluric/stellar lines using SysRem (detrending algorithm, Tamuz et al. 2014), cross-correlating with spectrum template, and summing all of the relevant signals (e.g. within in-transit phase in the case of transmission spectroscopy, or out of eclipse in the case of emission spectroscopy).
 
 
 There are four available demo:
